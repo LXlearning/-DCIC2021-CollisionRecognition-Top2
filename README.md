@@ -1,4 +1,7 @@
 # DCIC2021-智慧交通-基于车联网大数据的碰撞识别TOP2方案
+比赛链接 https://www.datafountain.cn/competitions/500
+成绩A榜0.9933，B榜成绩0.9867
+赛题解读细节：https://zhuanlan.zhihu.com/p/370604280
 
 代码分为4个模块：
 
